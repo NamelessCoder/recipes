@@ -33,6 +33,12 @@ To trim the sinew, place the knife so all of the blade touches the meat right wh
 meat. Start a small cut, lift up the sinew/fat part and slowly cut along the meat. Don't be afraid to lose a little
 meat in the process.
 
+![Roast before preparation](Step01.jpg)
+
+![Roast underbelly](Step02.jpg)
+
+![Neatly trimmed underbelly](Step03.jpg)
+
 Throw the trimmings in the dog or the garbage can, depending on which you have available.
 
 > Optional step: poke-n-garlic
@@ -40,7 +46,11 @@ Throw the trimmings in the dog or the garbage can, depending on which you have a
 > pointy knife and from the bottom side of the roast, poke holes about 2.5 centimeters long and 4 centimeters deep,
 > then insert cloves of garlic. If the cloves are too fat to fit, cut them length-wise to make two slivers of clove.
 
+![Garlic clover population dispersion pattern alpha-sigma-sigma](Step04.jpg)
+
 Turn the roast right side up, then rub the fat layer with coarse cooking salt. Don't be afraid to use it!
+
+![Salty](Step05.jpg)
 
 Now weigh the trimmed roast - you'll need to know the exact weight to determine how long your cooking intervals
 must be to give you a rosy red roast from core to rim. This particular roast was 1.65 kgs.
@@ -51,6 +61,8 @@ Put the roast in the oven pan and pick up your calculator for a bit of basic mat
 > is a good choice for some roasts, it does not help in this case. Don't add water to the oven pan - the evaporation
 > will cool the bottom of the oven pan and combined with the fairly low oven temperature, you risk an unevenly
 > cooed roast.
+
+![Raw going on rare](Step06.jpg)
 
 ### Calculating cooking intervals
 
@@ -96,6 +108,18 @@ when targeting an overall rare meat temperare.
 The use of a meat thermometer is almost a must. It is very hard to hit the perfect temperature without it - just by
 gauging the size of the roast and the thickness of the thickest part.
 
+Below, the stages of cooking:
+
+![After cooking interval 1, in resting interval 1](Step08.jpg)
+
+![After cooking interval 2, in resting interval 2](Step09.jpg)
+
+![Final cooking interval with meat thermometer](Step10.jpg)
+
+And voila - ultimately juicy roast:
+
+![Bursting with juicy flavor](Step11.jpg)
+
 ### Resting
 
 When the desired temperature is reached *immediately* take the roast out, remove the thermometer, wrap the roast in
@@ -105,6 +129,10 @@ someplace hot (by this time you will find yourself in a pretty hot kitchen I'm s
 then cut it. When wrapping the roast you can leave a tiny open space so you can pour the excess juices out around
 the 30 minute mark - but take my advise and don't make this hole anywhere near the bottom side the roast will be
 resting on, or you'll lose your juice.
+
+![No foil swans here - but note the juice-bunghole on the right](Step12.jpg)
+
+![AwesomeSauce ingredient no. 1](Step12.jpg)
 
 This 45 minute resting period is not optional. During this time the meat core temperature will drop a few degrees
 but you'd be surprised how little it actually drops (if you wrap the roast properly).
