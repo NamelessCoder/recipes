@@ -3,6 +3,8 @@
 > How to cook the perfect oven roast with a bonus side order of tasty sauce. Serves 4-8 people depending on meat
 > quantity. Or two-three filthy food pigs with low self control.
 
+![Dish](Dish.jpg)
+
 ## Preparation time
 
 Depends on weight of roast after trimming: 2.5 - 3.0 hours
@@ -12,8 +14,7 @@ Depends on weight of roast after trimming: 2.5 - 3.0 hours
 * 1pcs Beef Cuvette/Culotte
 * Salt, coarse
 * Optional: garlic
-* Corn starch
-* 1pcs dog or garbage can
+* Corn starch or wheat flour
 
 ## Equipmunk list:
 
@@ -23,6 +24,7 @@ Depends on weight of roast after trimming: 2.5 - 3.0 hours
 * Meat thermometer
 * Timer
 * Oven pan. I like non-stick ones for roasts.
+* 1pcs dog or garbage can
 
 Steps to success:
 
@@ -110,15 +112,15 @@ gauging the size of the roast and the thickness of the thickest part.
 
 Below, the stages of cooking:
 
-![After cooking interval 1, in resting interval 1](Step08.jpg)
+![After cooking interval 1, in resting interval 1](Step07.jpg)
 
-![After cooking interval 2, in resting interval 2](Step09.jpg)
+![After cooking interval 2, in resting interval 2](Step08.jpg)
 
-![Final cooking interval with meat thermometer](Step10.jpg)
+![Final cooking interval with meat thermometer](Step09.jpg)
 
 And voila - ultimately juicy roast:
 
-![Bursting with juicy flavor](Step11.jpg)
+![Bursting with juicy flavor](Step10.jpg)
 
 ### Resting
 
@@ -130,21 +132,15 @@ then cut it. When wrapping the roast you can leave a tiny open space so you can 
 the 30 minute mark - but take my advise and don't make this hole anywhere near the bottom side the roast will be
 resting on, or you'll lose your juice.
 
-![No foil swans here - but note the juice-bunghole on the right](Step12.jpg)
+![No foil swans here - but note the juice-bunghole on the right](Step11.jpg)
 
-![AwesomeSauce ingredient no. 1](Step13.jpg)
+![AwesomeSauce ingredient no. 1](Step12.jpg)
 
 This 45 minute resting period is not optional. During this time the meat core temperature will drop a few degrees
 but you'd be surprised how little it actually drops (if you wrap the roast properly).
 
 By the way, 45 minutes is almost exactly how long it takes to cook Hasselback potatoes. Which as luck would have it,
 requires an oven pre-heated to 180 degress for ~45 minutes (with optional high-heat/grill finish).
-
-### Cutting
-
-To properly cut a cuvette roast, start from the thin end and cut slices about 0.5cm thick (yes, I like the slices
-a bit thick) and stop when you're half-way through the roast, then turn it 45 degress counter clockwise (if you're
-right handed) and continue cutting. If you don't cut it all at once, you should re-wrap it between cutting slices.
 
 ### Bonus: AwesomeSauce
 
@@ -153,6 +149,19 @@ cooking the roast, add about the same volume of milk (or use water here and add 
 put it all in a sauce pan and start heating it up. When the sauce is close to boiling, thicken it with a mixture of
 corn starch and water which you whipped up separately. If you don't have corn starch, regular wheat flower can be
 used in a pinch. Pour the starch/flour mixture slowly into the sauce until it reaches the consistency you want.
+
+![Consistency](Step13.jpg)
+
 Adjust the taste using salt and pepper (some would also go as far as to add MSG-based spices) and if you wish and
 if you have it, add a tiny bit of brown food coloring. Whisp for a while longer while you keep the sauce at medium
 heat (don't boil it!) then take it off the burner and let it sit (but not too long!): then serve.
+
+### Cutting
+
+To properly cut a cuvette roast, start from the thin end and cut slices about 0.5cm thick (yes, I like the slices
+a bit thick) and stop when you're half-way through the roast, then turn it 45 degress counter clockwise (if you're
+right handed) and continue cutting. If you don't cut it all at once, you should re-wrap it between cutting slices.
+
+![Cutting direction](Step14.jpg)
+
+![Rosy, juicy, good.](Step15.jpg)
