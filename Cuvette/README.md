@@ -22,6 +22,7 @@ Depends on weight of roast after trimming: 2.5 - 3.0 hours
 * Scale for weighing
 * Meat thermometer
 * Timer
+* Oven pan. I like non-stick ones for roasts.
 
 Steps to success:
 
@@ -43,6 +44,13 @@ Turn the roast right side up, then rub the fat layer with coarse cooking salt. D
 
 Now weigh the trimmed roast - you'll need to know the exact weight to determine how long your cooking intervals
 must be to give you a rosy red roast from core to rim. This particular roast was 1.65 kgs.
+
+Put the roast in the oven pan and pick up your calculator for a bit of basic math.
+
+> Note: many oven roast recipes call for adding water to the oven pan while cooking the roast. While that certainly
+> is a good choice for some roasts, it does not help in this case. Don't add water to the oven pan - the evaporation
+> will cool the bottom of the oven pan and combined with the fairly low oven temperature, you risk an unevenly
+> cooed roast.
 
 ### Calculating cooking intervals
 
