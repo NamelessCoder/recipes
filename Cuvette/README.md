@@ -62,7 +62,7 @@ Put the roast in the oven pan and pick up your calculator for a bit of basic mat
 > Note: many oven roast recipes call for adding water to the oven pan while cooking the roast. While that certainly
 > is a good choice for some roasts, it does not help in this case. Don't add water to the oven pan - the evaporation
 > will cool the bottom of the oven pan and combined with the fairly low oven temperature, you risk an unevenly
-> cooed roast.
+> cooked roast. And that's just no fun.
 
 ![Raw going on rare](Step06.jpg)
 
@@ -128,9 +128,9 @@ When the desired temperature is reached *immediately* take the roast out, remove
 3-4 layers of tin foil and follow those layers with 2-3 kitchen towels. Pour the cooking juice from the oven pan
 into a sauce pan and use for the AwesomeSauce. Rinse the oven pan and put the wrapped roast there - leave it
 someplace hot (by this time you will find yourself in a pretty hot kitchen I'm sure!) for *exactly* 45 minutes,
-then cut it. When wrapping the roast you can leave a tiny open space so you can pour the excess juices out around
-the 30 minute mark - but take my advise and don't make this hole anywhere near the bottom side the roast will be
-resting on, or you'll lose your juice.
+then cut it. When wrapping the roast you can leave a tiny open space so you can pour the excess juices out into the
+sauce pan around the 30 minute mark and again right before cutting - but take my advise and don't make this hole
+anywhere near the bottom side the roast will be resting on, or you'll lose your juice.
 
 ![No foil swans here - but note the juice-bunghole on the right](Step11.jpg)
 
@@ -147,7 +147,7 @@ requires an oven pre-heated to 180 degress for ~45 minutes (with optional high-h
 When making an oven roast, making an AwesomeSauce is excessively easy. Take the cooking juice you saved up while
 cooking the roast, add about the same volume of milk (or use water here and add some cream later if you have cream),
 put it all in a sauce pan and start heating it up. When the sauce is close to boiling, thicken it with a mixture of
-corn starch and water which you whipped up separately. If you don't have corn starch, regular wheat flower can be
+corn starch and water which you whipped up separately. If you don't have corn starch, regular wheat flour can be
 used in a pinch. Pour the starch/flour mixture slowly into the sauce until it reaches the consistency you want.
 
 ![Consistency](Step13.jpg)
@@ -162,6 +162,13 @@ To properly cut a cuvette roast, start from the thin end and cut slices about 0.
 a bit thick) and stop when you're half-way through the roast, then turn it 45 degress counter clockwise (if you're
 right handed) and continue cutting. If you don't cut it all at once, you should re-wrap it between cutting slices.
 
+You should serve the first slices you cut from either angle, to the person or persons who like their meat closer
+to medium and prefer less fat (as luck would have it, those two preferences often go together).
+
 ![Cutting direction](Step14.jpg)
 
 ![Rosy, juicy, good.](Step15.jpg)
+
+Bon Appetit!
+
+/NamelessCook
