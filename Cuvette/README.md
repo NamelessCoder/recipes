@@ -149,9 +149,10 @@ right handed) and continue cutting. If you don't cut it all at once, you should 
 ### Bonus: AwesomeSauce
 
 When making an oven roast, making an AwesomeSauce is excessively easy. Take the cooking juice you saved up while
-cooking the roast, put it all in a sauce pan and start heating it up. When the sauce is close to boiling, thicken
-it with a mixture of corn starch and water which you whipped up separately. If you don't have corn starch, regular
-wheat flower can be used in a pinch. Pour the starch/flour mixture slowly into the sauce until it reaches the
-consistency you want. Adjust the taste using salt and pepper (some would also go as far as to add MSG-based spices)
-and if you wish and if you have it, add a tiny bit of brown food coloring. Whisp for a while longer while you keep
-the sauce at medium heat (don't boil it!) then take it off the burner and let it sit (but not too long!): then serve.
+cooking the roast, add about the same volume of milk (or use water here and add some cream later if you have cream),
+put it all in a sauce pan and start heating it up. When the sauce is close to boiling, thicken it with a mixture of
+corn starch and water which you whipped up separately. If you don't have corn starch, regular wheat flower can be
+used in a pinch. Pour the starch/flour mixture slowly into the sauce until it reaches the consistency you want.
+Adjust the taste using salt and pepper (some would also go as far as to add MSG-based spices) and if you wish and
+if you have it, add a tiny bit of brown food coloring. Whisp for a while longer while you keep the sauce at medium
+heat (don't boil it!) then take it off the burner and let it sit (but not too long!): then serve.
