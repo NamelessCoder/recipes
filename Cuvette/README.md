@@ -39,6 +39,8 @@ Throw the trimmings in the dog or the garbage can, depending on which you have a
 > pointy knife and from the bottom side of the roast, poke holes about 2.5 centimeters long and 4 centimeters deep,
 > then insert cloves of garlic. If the cloves are too fat to fit, cut them length-wise to make two slivers of clove.
 
+Turn the roast right side up, then rub the fat layer with coarse cooking salt. Don't be afraid to use it!
+
 Now weigh the trimmed roast - you'll need to know the exact weight to determine how long your cooking intervals
 must be to give you a rosy red roast from core to rim. This particular roast was 1.65 kgs.
 
@@ -107,3 +109,13 @@ requires an oven pre-heated to 180 degress for ~45 minutes (with optional high-h
 To properly cut a cuvette roast, start from the thin end and cut slices about 0.5cm thick (yes, I like the slices
 a bit thick) and stop when you're half-way through the roast, then turn it 45 degress counter clockwise (if you're
 right handed) and continue cutting. If you don't cut it all at once, you should re-wrap it between cutting slices.
+
+### Bonus: AwesomeSauce
+
+When making an oven roast, making an AwesomeSauce is excessively easy. Take the cooking juice you saved up while
+cooking the roast, put it all in a sauce pan and start heating it up. When the sauce is close to boiling, thicken
+it with a mixture of corn starch and water which you whipped up separately. If you don't have corn starch, regular
+wheat flower can be used in a pinch. Pour the starch/flour mixture slowly into the sauce until it reaches the
+consistency you want. Adjust the taste using salt and pepper (some would also go as far as to add MSG-based spices)
+and if you wish and if you have it, add a tiny bit of brown food coloring. Whisp for a while longer while you keep
+the sauce at medium heat (don't boil it!) then take it off the burner and let it sit (but not too long!): then serve.
