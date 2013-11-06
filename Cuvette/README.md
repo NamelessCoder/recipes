@@ -132,7 +132,7 @@ resting on, or you'll lose your juice.
 
 ![No foil swans here - but note the juice-bunghole on the right](Step12.jpg)
 
-![AwesomeSauce ingredient no. 1](Step12.jpg)
+![AwesomeSauce ingredient no. 1](Step13.jpg)
 
 This 45 minute resting period is not optional. During this time the meat core temperature will drop a few degrees
 but you'd be surprised how little it actually drops (if you wrap the roast properly).
