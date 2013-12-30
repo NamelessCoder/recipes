@@ -159,7 +159,7 @@ heat (don't boil it!) then take it off the burner and let it sit (but not too lo
 ### Cutting
 
 To properly cut a cuvette roast, start from the thin end and cut slices about 0.5cm thick (yes, I like the slices
-a bit thick) and stop when you're half-way through the roast, then turn it 45 degress counter clockwise (if you're
+a bit thick) and stop when you're half-way through the roast, then turn it 90 degress counter clockwise (if you're
 right handed) and continue cutting. If you don't cut it all at once, you should re-wrap it between cutting slices.
 
 You should serve the first slices you cut from either angle, to the person or persons who like their meat closer
